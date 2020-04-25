@@ -23,6 +23,7 @@ if (data){
     loadList(LIST);    //LOADS the list to the UI
 } else {
     LIST = [];
+
     id = 0;
 }
 
